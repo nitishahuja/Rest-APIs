@@ -48,6 +48,3 @@ We are open to contributions! If you're interested in improving the project, ple
 3. Commit your changes (`git commit -am 'Add some AmazingFeature'`).
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a Pull Request.
-
-## License
-This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
