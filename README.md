@@ -1,5 +1,5 @@
 
-# Your Project Name
+# REST API BACKEND
 
 ## Overview
 This project is a cutting-edge TypeScript-based web application designed to streamline user management and secure authentication processes. Leveraging the latest technologies, our platform offers a robust and scalable solution for businesses and developers looking to implement efficient, secure user handling and access control mechanisms in their applications.
